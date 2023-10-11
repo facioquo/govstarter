@@ -1,2 +1,2 @@
 # govstarter
-Crowd sourcing the biggest problems and solutions for government technology workers.
+Crowd sourcing solutions for the biggest problems for government technology workers.

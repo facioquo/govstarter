@@ -18,4 +18,4 @@ Food for thought.
 
 This project _has not started yet_.
 
-If you're interested in becoming a contributor or have some thoughts about what this project, please [join to our open discussion](https://github.com/facioquo/govstarter/discussions/2).
+If you're interested in becoming a contributor or have some thoughts about what this project could become, please [join to our open discussion](https://github.com/facioquo/govstarter/discussions/2).
